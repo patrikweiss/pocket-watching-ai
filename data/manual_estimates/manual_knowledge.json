@@ -1,0 +1,1612 @@
+{
+  "people": [
+    {
+      "name": "Jay-Z",
+      "entity_type": "rapper",
+      "manual_net_worth": [2500000000, 2600000000, 2700000000],
+      "confidence": 9,
+      "owns_masters": true,
+      "owns_publishing": true,
+      "label_situation": "Roc Nation (owns majority)",
+      "key_assets": {
+        "rocnation": 600000000,
+        "ace_of_spades": 300000000,
+        "tidal": 100000000,
+        "real_estate": 300000000,
+        "art_collection": 100000000,
+        "investments": 500000000
+      },
+      "notes": "Owns masters + businesses. Roc Nation, Liquor, Masters."
+    },
+    {
+      "name": "Drake",
+      "entity_type": "rapper",
+      "manual_net_worth": [400000000, 450000000, 500000000],
+      "confidence": 9,
+      "owns_masters": false,
+      "owns_publishing": true,
+      "label_situation": "OVO/Republic licensing deal - no master equity",
+      "key_assets": {
+        "ovo_sound": 100000000,
+        "publishing": 150000000,
+        "real_estate": 100000000,
+        "brand_deals": 50000000
+      },
+      "notes": "Corrected: does not own all masters; OVO sale gave cash but reduced equity; income is cash flow, not asset value."
+    },
+    {
+      "name": "Kanye West",
+      "entity_type": "rapper",
+      "manual_net_worth": [400000000, 500000000, 600000000],
+      "confidence": 8,
+      "owns_masters": true,
+      "owns_publishing": true,
+      "label_situation": "Owns masters + publishing",
+      "key_assets": {
+        "yeezy_brand": 300000000,
+        "masters": 100000000,
+        "real_estate": 50000000
+      },
+      "notes": "Owns masters + publishing. Yeezy, Music, Real Estate."
+    },
+    {
+      "name": "J. Cole",
+      "entity_type": "rapper",
+      "manual_net_worth": [420000000, 485000000, 550000000],
+      "confidence": 9,
+      "owns_masters": true,
+      "owns_publishing": true,
+      "label_situation": "Dreamville (owns) + distribution deal with ownership retention",
+      "key_assets": {
+        "dreamville_records": 40000000,
+        "masters": 200000000,
+        "real_estate": 25000000,
+        "investments": 50000000
+      },
+      "notes": "Confirmed distribution deal gives him ownership; Fall-Off tour added massive income."
+    },
+    {
+      "name": "Kendrick Lamar",
+      "entity_type": "rapper",
+      "manual_net_worth": [400000000, 425000000, 450000000],
+      "confidence": 9,
+      "owns_masters": false,
+      "owns_publishing": true,
+      "label_situation": "pgLang (owns) + TDE past. Does NOT own old masters.",
+      "key_assets": {
+        "pglang": 100000000,
+        "publishing": 100000000,
+        "real_estate": 30000000,
+        "investments": 50000000
+      },
+      "notes": "Does NOT own old masters (TDE). Touring, Publishing, pgLang."
+    },
+    {
+      "name": "Nas",
+      "entity_type": "rapper",
+      "manual_net_worth": [380000000, 390000000, 400000000],
+      "confidence": 9,
+      "owns_masters": false,
+      "owns_publishing": true,
+      "label_situation": "Mass Appeal (owns). Owns new masters, old disputed.",
+      "key_assets": {
+        "mass_appeal": 100000000,
+        "coinbase_investment": 100000000,
+        "real_estate": 10000000,
+        "investments": 50000000,
+        "publishing": 100000000
+      },
+      "notes": "Owns new masters, old disputed. Mass Appeal, Tech Investments."
+    },
+    {
+      "name": "Eminem",
+      "entity_type": "rapper",
+      "manual_net_worth": [550000000, 575000000, 600000000],
+      "confidence": 8,
+      "owns_masters": false,
+      "owns_publishing": true,
+      "label_situation": "Does NOT own masters",
+      "key_assets": {
+        "publishing": 300000000,
+        "real_estate": 50000000,
+        "investments": 100000000
+      },
+      "notes": "Does NOT own masters. Publishing, Catalog, Royalties."
+    },
+    {
+      "name": "Future",
+      "entity_type": "rapper",
+      "manual_net_worth": [100000000, 125000000, 150000000],
+      "confidence": 8,
+      "owns_masters": true,
+      "owns_publishing": true,
+      "label_situation": "Freebandz (owns) + some masters",
+      "key_assets": {
+        "freebandz": 30000000,
+        "masters": 50000000,
+        "real_estate": 10000000
+      },
+      "notes": "Owns Freebandz + some masters. Streaming, Touring, Label."
+    },
+    {
+      "name": "Lil Wayne",
+      "entity_type": "rapper",
+      "manual_net_worth": [150000000, 175000000, 200000000],
+      "confidence": 8,
+      "owns_masters": true,
+      "owns_publishing": true,
+      "label_situation": "Owns Young Money",
+      "key_assets": {
+        "young_money": 50000000,
+        "masters": 70000000,
+        "real_estate": 20000000
+      },
+      "notes": "Owns Young Money. Catalog, Touring."
+    },
+    {
+      "name": "Nicki Minaj",
+      "entity_type": "rapper",
+      "manual_net_worth": [100000000, 125000000, 150000000],
+      "confidence": 8,
+      "owns_masters": true,
+      "owns_publishing": true,
+      "label_situation": "Owns recent masters",
+      "key_assets": {
+        "masters": 50000000,
+        "publishing": 30000000,
+        "real_estate": 20000000
+      },
+      "notes": "Owns recent masters. Touring, Endorsements."
+    },
+    {
+      "name": "Travis Scott",
+      "entity_type": "rapper",
+      "manual_net_worth": [120000000, 150000000, 180000000],
+      "confidence": 8,
+      "owns_masters": true,
+      "owns_publishing": true,
+      "label_situation": "Owns recent masters + Cactus Jack",
+      "key_assets": {
+        "cactus_jack": 30000000,
+        "masters": 60000000,
+        "brand_deals": 30000000
+      },
+      "notes": "Owns recent masters + Cactus Jack. Music, Touring, Brand."
+    },
+    {
+      "name": "Tyler, The Creator",
+      "entity_type": "rapper",
+      "manual_net_worth": [80000000, 100000000, 120000000],
+      "confidence": 8,
+      "owns_masters": true,
+      "owns_publishing": true,
+      "label_situation": "Owns masters + Golf Wang",
+      "key_assets": {
+        "masters": 40000000,
+        "golf_wang": 30000000,
+        "festival": 10000000
+      },
+      "notes": "Owns masters + Golf Wang. Music, Fashion, Festival."
+    },
+    {
+      "name": "Post Malone",
+      "entity_type": "rapper",
+      "manual_net_worth": [80000000, 100000000, 120000000],
+      "confidence": 8,
+      "owns_masters": true,
+      "owns_publishing": true,
+      "label_situation": "Owns recent masters",
+      "key_assets": {
+        "masters": 50000000,
+        "brand_deals": 30000000,
+        "real_estate": 20000000
+      },
+      "notes": "Owns recent masters. Music, Touring, Brand."
+    },
+    {
+      "name": "Wiz Khalifa",
+      "entity_type": "rapper",
+      "manual_net_worth": [60000000, 75000000, 90000000],
+      "confidence": 8,
+      "owns_masters": true,
+      "owns_publishing": true,
+      "label_situation": "Owns recent masters",
+      "key_assets": {
+        "masters": 30000000,
+        "khalifa_kush": 20000000,
+        "real_estate": 10000000
+      },
+      "notes": "Owns recent masters. Music, Weed Brand."
+    },
+    {
+      "name": "Rick Ross",
+      "entity_type": "rapper",
+      "manual_net_worth": [50000000, 65000000, 80000000],
+      "confidence": 8,
+      "owns_masters": true,
+      "owns_publishing": true,
+      "label_situation": "Owns some masters",
+      "key_assets": {
+        "masters": 25000000,
+        "wingstop": 15000000,
+        "real_estate": 10000000
+      },
+      "notes": "Owns some masters. Endorsements, Real Estate."
+    },
+    {
+      "name": "Gucci Mane",
+      "entity_type": "rapper",
+      "manual_net_worth": [30000000, 40000000, 50000000],
+      "confidence": 7,
+      "owns_masters": true,
+      "owns_publishing": true,
+      "label_situation": "Owns recent masters",
+      "key_assets": {
+        "masters": 20000000,
+        "label": 10000000
+      },
+      "notes": "Owns recent masters. Music, Label."
+    },
+    {
+      "name": "Jeezy",
+      "entity_type": "rapper",
+      "manual_net_worth": [20000000, 30000000, 40000000],
+      "confidence": 7,
+      "owns_masters": true,
+      "owns_publishing": true,
+      "label_situation": "Owns recent masters",
+      "key_assets": {
+        "masters": 15000000,
+        "real_estate": 10000000
+      },
+      "notes": "Owns recent masters. Music, Real Estate."
+    },
+    {
+      "name": "A$AP Rocky",
+      "entity_type": "rapper",
+      "manual_net_worth": [20000000, 30000000, 40000000],
+      "confidence": 7,
+      "owns_masters": true,
+      "owns_publishing": true,
+      "label_situation": "Owns recent masters",
+      "key_assets": {
+        "masters": 15000000,
+        "fashion_deals": 10000000
+      },
+      "notes": "Owns recent masters. Music, Fashion."
+    },
+    {
+      "name": "Lil Uzi Vert",
+      "entity_type": "rapper",
+      "manual_net_worth": [25000000, 35000000, 45000000],
+      "confidence": 7,
+      "owns_masters": true,
+      "owns_publishing": true,
+      "label_situation": "Owns recent masters",
+      "key_assets": {
+        "masters": 20000000,
+        "real_estate": 5000000
+      },
+      "notes": "Owns recent masters. Music, Touring."
+    },
+    {
+      "name": "Playboi Carti",
+      "entity_type": "rapper",
+      "manual_net_worth": [20000000, 27500000, 35000000],
+      "confidence": 7,
+      "owns_masters": true,
+      "owns_publishing": true,
+      "label_situation": "Owns recent masters",
+      "key_assets": {
+        "masters": 15000000,
+        "fashion_deals": 5000000
+      },
+      "notes": "Owns recent masters. Music, Touring, Fashion."
+    },
+    {
+      "name": "ScHoolboy Q",
+      "entity_type": "rapper",
+      "manual_net_worth": [5000000, 7500000, 10000000],
+      "confidence": 7,
+      "owns_masters": false,
+      "owns_publishing": true,
+      "label_situation": "TDE/Interscope deal",
+      "key_assets": {
+        "publishing": 5000000,
+        "real_estate": 2000000
+      },
+      "notes": "TDE/Interscope deal. Touring, Streaming."
+    },
+    {
+      "name": "Ab-Soul",
+      "entity_type": "rapper",
+      "manual_net_worth": [2000000, 3000000, 4000000],
+      "confidence": 7,
+      "owns_masters": false,
+      "owns_publishing": true,
+      "label_situation": "TDE/Interscope deal",
+      "key_assets": {
+        "publishing": 2000000
+      },
+      "notes": "TDE/Interscope deal. Touring, Streaming."
+    },
+    {
+      "name": "Earl Sweatshirt",
+      "entity_type": "rapper",
+      "manual_net_worth": [5000000, 7500000, 10000000],
+      "confidence": 7,
+      "owns_masters": true,
+      "owns_publishing": true,
+      "label_situation": "Owns recent masters",
+      "key_assets": {
+        "masters": 3000000,
+        "publishing": 2000000
+      },
+      "notes": "Owns recent masters. Music, Touring."
+    },
+    {
+      "name": "Vince Staples",
+      "entity_type": "rapper",
+      "manual_net_worth": [4000000, 6000000, 8000000],
+      "confidence": 7,
+      "owns_masters": true,
+      "owns_publishing": true,
+      "label_situation": "Owns recent masters",
+      "key_assets": {
+        "masters": 3000000,
+        "acting_income": 1500000
+      },
+      "notes": "Owns recent masters. Music, Acting."
+    },
+    {
+      "name": "Joey Bada$$",
+      "entity_type": "rapper",
+      "manual_net_worth": [8000000, 11500000, 15000000],
+      "confidence": 7,
+      "owns_masters": true,
+      "owns_publishing": true,
+      "label_situation": "Owns recent masters",
+      "key_assets": {
+        "masters": 5000000,
+        "acting_income": 3000000
+      },
+      "notes": "Owns recent masters. Music, Acting."
+    },
+    {
+      "name": "Logic",
+      "entity_type": "rapper",
+      "manual_net_worth": [20000000, 27500000, 35000000],
+      "confidence": 8,
+      "owns_masters": true,
+      "owns_publishing": true,
+      "label_situation": "Owns recent masters",
+      "key_assets": {
+        "masters": 15000000,
+        "real_estate": 5000000
+      },
+      "notes": "Owns recent masters. Music, Streaming."
+    },
+    {
+      "name": "Big Sean",
+      "entity_type": "rapper",
+      "manual_net_worth": [20000000, 27500000, 35000000],
+      "confidence": 7,
+      "owns_masters": false,
+      "owns_publishing": true,
+      "label_situation": "G.O.O.D. Music deal",
+      "key_assets": {
+        "publishing": 15000000,
+        "real_estate": 5000000
+      },
+      "notes": "G.O.O.D. Music deal. Music, Touring."
+    },
+    {
+      "name": "Chance the Rapper",
+      "entity_type": "rapper",
+      "manual_net_worth": [25000000, 32500000, 40000000],
+      "confidence": 7,
+      "owns_masters": true,
+      "owns_publishing": true,
+      "label_situation": "Owns masters",
+      "key_assets": {
+        "masters": 15000000,
+        "brand_deals": 10000000
+      },
+      "notes": "Owns masters. Music, Touring, Brand."
+    },
+    {
+      "name": "Jack Harlow",
+      "entity_type": "rapper",
+      "manual_net_worth": [15000000, 20000000, 25000000],
+      "confidence": 7,
+      "owns_masters": false,
+      "owns_publishing": true,
+      "label_situation": "Major label deal",
+      "key_assets": {
+        "publishing": 10000000,
+        "real_estate": 5000000
+      },
+      "notes": "Major label deal. Music, Touring."
+    },
+    {
+      "name": "Cordae",
+      "entity_type": "rapper",
+      "manual_net_worth": [5000000, 6500000, 8000000],
+      "confidence": 7,
+      "owns_masters": true,
+      "owns_publishing": true,
+      "label_situation": "Owns recent masters",
+      "key_assets": {
+        "masters": 3000000,
+        "publishing": 2000000
+      },
+      "notes": "Owns recent masters. Music, Touring."
+    },
+    {
+      "name": "42 Dugg",
+      "entity_type": "rapper",
+      "manual_net_worth": [3000000, 5000000, 7000000],
+      "confidence": 6,
+      "owns_masters": false,
+      "owns_publishing": true,
+      "label_situation": "Major label deal",
+      "key_assets": {
+        "publishing": 3000000
+      },
+      "notes": "Major label deal. Music, Touring."
+    },
+    {
+      "name": "EST Gee",
+      "entity_type": "rapper",
+      "manual_net_worth": [5000000, 7500000, 10000000],
+      "confidence": 7,
+      "owns_masters": true,
+      "owns_publishing": true,
+      "label_situation": "Owns recent masters",
+      "key_assets": {
+        "masters": 3000000,
+        "publishing": 2000000
+      },
+      "notes": "Owns recent masters. Music, Touring."
+    },
+    {
+      "name": "Freddie Gibbs",
+      "entity_type": "rapper",
+      "manual_net_worth": [12000000, 16000000, 20000000],
+      "confidence": 8,
+      "owns_masters": true,
+      "owns_publishing": true,
+      "label_situation": "Owns masters + publishing",
+      "key_assets": {
+        "masters": 8000000,
+        "publishing": 5000000,
+        "real_estate": 1000000
+      },
+      "notes": "Owns masters + publishing. Streaming, Touring, Vinyl."
+    },
+    {
+      "name": "Pusha T",
+      "entity_type": "rapper",
+      "manual_net_worth": [10000000, 12500000, 15000000],
+      "confidence": 7,
+      "owns_masters": true,
+      "owns_publishing": true,
+      "label_situation": "G.O.O.D. Music + owns some masters",
+      "key_assets": {
+        "masters": 5000000,
+        "publishing": 3000000
+      },
+      "notes": "Owns some masters + publishing. G.O.O.D. Music, Brand Deals."
+    },
+    {
+      "name": "Meek Mill",
+      "entity_type": "rapper",
+      "manual_net_worth": [15000000, 20000000, 25000000],
+      "confidence": 8,
+      "owns_masters": true,
+      "owns_publishing": true,
+      "label_situation": "Dream Chasers (owns) + some masters",
+      "key_assets": {
+        "dream_chasers": 10000000,
+        "masters": 5000000,
+        "investments": 3000000
+      },
+      "notes": "Owns Dream Chasers + some masters. Music, Label, Investments."
+    },
+    {
+      "name": "Rapsody",
+      "entity_type": "rapper",
+      "manual_net_worth": [2500000, 3500000, 4500000],
+      "confidence": 8,
+      "owns_masters": true,
+      "owns_publishing": true,
+      "label_situation": "Owns masters + publishing. Independent.",
+      "key_assets": {
+        "masters": 1500000,
+        "publishing": 1000000
+      },
+      "notes": "Owns masters + publishing. Independent Music, Touring."
+    },
+    {
+      "name": "Billy Woods",
+      "entity_type": "rapper",
+      "manual_net_worth": [4000000, 5500000, 7000000],
+      "confidence": 8,
+      "owns_masters": true,
+      "owns_publishing": true,
+      "label_situation": "Backwoodz Studioz (co-owns). Owns 100% masters + publishing.",
+      "key_assets": {
+        "backwoodz_studioz": 1000000,
+        "masters": 3000000,
+        "publishing": 1500000
+      },
+      "notes": "Owns 100% masters + publishing. Backwoodz Studioz, Vinyl, Touring."
+    },
+    {
+      "name": "ELUCID",
+      "entity_type": "rapper",
+      "manual_net_worth": [2500000, 3500000, 4500000],
+      "confidence": 8,
+      "owns_masters": true,
+      "owns_publishing": true,
+      "label_situation": "Backwoodz Studioz (co-owns). Owns masters + publishing.",
+      "key_assets": {
+        "backwoodz_studioz": 1000000,
+        "masters": 1500000,
+        "publishing": 1000000
+      },
+      "notes": "Owns masters + publishing. Backwoodz Studioz, Touring."
+    },
+    {
+      "name": "Boldy James",
+      "entity_type": "rapper",
+      "manual_net_worth": [2500000, 4000000, 5500000],
+      "confidence": 7,
+      "owns_masters": true,
+      "owns_publishing": true,
+      "label_situation": "Owns recent masters",
+      "key_assets": {
+        "masters": 2000000,
+        "publishing": 1000000
+      },
+      "notes": "Owns recent masters. Independent Music, Vinyl."
+    },
+    {
+      "name": "IDK",
+      "entity_type": "rapper",
+      "manual_net_worth": [4500000, 6000000, 7500000],
+      "confidence": 8,
+      "owns_masters": true,
+      "owns_publishing": true,
+      "label_situation": "Owns masters + publishing. D2C independent.",
+      "key_assets": {
+        "masters": 3000000,
+        "publishing": 1500000,
+        "merch_brand": 1000000
+      },
+      "notes": "Owns masters + publishing. D2C Vinyl, Merch, Streaming."
+    },
+    {
+      "name": "Rome Streetz",
+      "entity_type": "rapper",
+      "manual_net_worth": [1500000, 2250000, 3000000],
+      "confidence": 7,
+      "owns_masters": true,
+      "owns_publishing": true,
+      "label_situation": "Mass Appeal. Owns recent masters.",
+      "key_assets": {
+        "masters": 1000000,
+        "publishing": 500000
+      },
+      "notes": "Owns recent masters. Mass Appeal, Touring, Vinyl."
+    },
+    {
+      "name": "Westside Gunn",
+      "entity_type": "rapper",
+      "manual_net_worth": [5000000, 7500000, 10000000],
+      "confidence": 8,
+      "owns_masters": true,
+      "owns_publishing": true,
+      "label_situation": "Griselda Records (co-owns). Owns masters + Griselda equity.",
+      "key_assets": {
+        "griselda_equity": 5000000,
+        "masters": 2000000,
+        "merch": 1000000
+      },
+      "notes": "Owns masters + Griselda equity. Griselda, Vinyl, Merch."
+    },
+    {
+      "name": "Conway the Machine",
+      "entity_type": "rapper",
+      "manual_net_worth": [4000000, 6000000, 8000000],
+      "confidence": 8,
+      "owns_masters": true,
+      "owns_publishing": true,
+      "label_situation": "Drumwork (owns). Owns recent masters.",
+      "key_assets": {
+        "masters": 3000000,
+        "publishing": 2000000,
+        "label": 1000000
+      },
+      "notes": "Owns recent masters. Music, Touring, Label."
+    },
+    {
+      "name": "Benny The Butcher",
+      "entity_type": "rapper",
+      "manual_net_worth": [8000000, 11500000, 15000000],
+      "confidence": 8,
+      "owns_masters": true,
+      "owns_publishing": true,
+      "label_situation": "Griselda Records (co-owns) + owns recent masters",
+      "key_assets": {
+        "griselda_equity": 5000000,
+        "masters": 3000000,
+        "publishing": 2000000
+      },
+      "notes": "Owns recent masters. Griselda, Low-Mid streaming, Low-Mid touring."
+    },
+    {
+      "name": "Slick Rick",
+      "entity_type": "rapper",
+      "manual_net_worth": [5000000, 7500000, 10000000],
+      "confidence": 7,
+      "owns_masters": false,
+      "owns_publishing": true,
+      "label_situation": "Old catalog, 35-year rule applies",
+      "key_assets": {
+        "publishing": 5000000,
+        "legacy_catalog": 2000000
+      },
+      "notes": "Old catalog, 35-year rule applies. Legacy Catalog, Publishing."
+    },
+    {
+      "name": "Lauryn Hill",
+      "entity_type": "rapper",
+      "manual_net_worth": [3000000, 4500000, 6000000],
+      "confidence": 7,
+      "owns_masters": false,
+      "owns_publishing": true,
+      "label_situation": "Does NOT own masters",
+      "key_assets": {
+        "publishing": 3000000
+      },
+      "notes": "Does NOT own masters. Publishing, Touring."
+    },
+    {
+      "name": "Remy Ma",
+      "entity_type": "rapper",
+      "manual_net_worth": [3000000, 4000000, 5000000],
+      "confidence": 7,
+      "owns_masters": true,
+      "owns_publishing": true,
+      "label_situation": "Owns post-2017 masters",
+      "key_assets": {
+        "masters": 2000000,
+        "publishing": 1000000,
+        "reality_tv": 500000
+      },
+      "notes": "Owns post-2017 masters. Music, Publishing, Reality TV."
+    },
+    {
+      "name": "Papoose",
+      "entity_type": "rapper",
+      "manual_net_worth": [-50000, 75000, 200000],
+      "confidence": 6,
+      "owns_masters": false,
+      "owns_publishing": true,
+      "label_situation": "Owns some publishing",
+      "key_assets": {
+        "publishing": 100000
+      },
+      "notes": "Eviction, pawning jewelry, gambling, no real assets."
+    },
+    {
+      "name": "Black Thought",
+      "entity_type": "rapper",
+      "manual_net_worth": [8000000, 10000000, 12000000],
+      "confidence": 8,
+      "owns_masters": false,
+      "owns_publishing": true,
+      "label_situation": "Owns publishing. The Roots.",
+      "key_assets": {
+        "publishing": 6000000,
+        "acting_income": 2000000
+      },
+      "notes": "Owns publishing. The Roots, Solo Music, Acting."
+    },
+    {
+      "name": "Erykah Badu",
+      "entity_type": "singer",
+      "manual_net_worth": [8000000, 11000000, 14000000],
+      "confidence": 8,
+      "owns_masters": true,
+      "owns_publishing": true,
+      "label_situation": "Owns publishing + some masters. Control Freak Records.",
+      "key_assets": {
+        "masters": 4000000,
+        "publishing": 4000000,
+        "touring": 2000000
+      },
+      "notes": "Owns publishing + some masters. Touring, Merch, Brand."
+    },
+    {
+      "name": "Anderson .Paak",
+      "entity_type": "singer",
+      "manual_net_worth": [15000000, 20000000, 25000000],
+      "confidence": 8,
+      "owns_masters": true,
+      "owns_publishing": true,
+      "label_situation": "Owns masters + label. APESHIT.",
+      "key_assets": {
+        "masters": 8000000,
+        "publishing": 5000000,
+        "label": 3000000
+      },
+      "notes": "Owns masters + label. Music, Touring, Silk Sonic."
+    },
+    {
+      "name": "Denzel Curry",
+      "entity_type": "rapper",
+      "manual_net_worth": [5000000, 7500000, 10000000],
+      "confidence": 7,
+      "owns_masters": true,
+      "owns_publishing": true,
+      "label_situation": "Owns recent masters",
+      "key_assets": {
+        "masters": 3000000,
+        "publishing": 2000000
+      },
+      "notes": "Owns recent masters. Music, Touring."
+    },
+    {
+      "name": "McKinley Dixon",
+      "entity_type": "rapper",
+      "manual_net_worth": [500000, 1000000, 1500000],
+      "confidence": 6,
+      "owns_masters": true,
+      "owns_publishing": true,
+      "label_situation": "Owns masters + publishing",
+      "key_assets": {
+        "masters": 500000,
+        "publishing": 300000
+      },
+      "notes": "Owns masters. Music, Vinyl, Touring. Emerging artist."
+    },
+    {
+      "name": "Jay Electronica",
+      "entity_type": "rapper",
+      "manual_net_worth": [2000000, 3000000, 4000000],
+      "confidence": 7,
+      "owns_masters": true,
+      "owns_publishing": true,
+      "label_situation": "Owns masters + publishing. Roc Nation ties.",
+      "key_assets": {
+        "masters": 1500000,
+        "publishing": 1000000
+      },
+      "notes": "Owns masters + publishing. Music, Roc Nation ties."
+    },
+    {
+      "name": "NBA YoungBoy",
+      "entity_type": "rapper",
+      "manual_net_worth": [80000000, 115000000, 150000000],
+      "confidence": 8,
+      "owns_masters": true,
+      "owns_publishing": true,
+      "label_situation": "Owns post-2022 masters",
+      "key_assets": {
+        "masters": 50000000,
+        "publishing": 30000000,
+        "youtube_revenue": 20000000
+      },
+      "notes": "Owns post-2022 masters; huge streaming; legal issues cap it."
+    },
+    {
+      "name": "21 Savage",
+      "entity_type": "rapper",
+      "manual_net_worth": [25000000, 37500000, 50000000],
+      "confidence": 8,
+      "owns_masters": true,
+      "owns_publishing": true,
+      "label_situation": "Partial ownership (Epic/Slaughter Gang)",
+      "key_assets": {
+        "masters": 15000000,
+        "publishing": 10000000,
+        "investments": 5000000
+      },
+      "notes": "Partial ownership. High streaming, Mid touring."
+    },
+    {
+      "name": "Lil Baby",
+      "entity_type": "rapper",
+      "manual_net_worth": [30000000, 45000000, 60000000],
+      "confidence": 8,
+      "owns_masters": true,
+      "owns_publishing": true,
+      "label_situation": "Partial ownership (QC/Motown)",
+      "key_assets": {
+        "4pf_label": 15000000,
+        "masters": 15000000,
+        "publishing": 10000000
+      },
+      "notes": "Partial ownership. High streaming, High touring."
+    },
+    {
+      "name": "JID",
+      "entity_type": "rapper",
+      "manual_net_worth": [15000000, 22500000, 30000000],
+      "confidence": 8,
+      "owns_masters": true,
+      "owns_publishing": true,
+      "label_situation": "50/50 Dreamville masters (restructured 2025)",
+      "key_assets": {
+        "masters": 10000000,
+        "publishing": 8000000,
+        "touring": 3000000
+      },
+      "notes": "Restructured deal in 2025 gave him 50% of masters with Dreamville."
+    },
+    {
+      "name": "Sada Baby",
+      "entity_type": "rapper",
+      "manual_net_worth": [3000000, 4500000, 6000000],
+      "confidence": 6,
+      "owns_masters": true,
+      "owns_publishing": true,
+      "label_situation": "Owns recent masters",
+      "key_assets": {
+        "masters": 2000000,
+        "publishing": 1000000
+      },
+      "notes": "Owns recent masters. Music, Streaming."
+    },
+    {
+      "name": "YBN Nahmir",
+      "entity_type": "rapper",
+      "manual_net_worth": [2000000, 3500000, 5000000],
+      "confidence": 6,
+      "owns_masters": true,
+      "owns_publishing": true,
+      "label_situation": "Owns recent masters",
+      "key_assets": {
+        "masters": 1500000,
+        "publishing": 1000000
+      },
+      "notes": "Owns recent masters. Music, Streaming."
+    },
+    {
+      "name": "Boosie Badazz",
+      "entity_type": "rapper",
+      "manual_net_worth": [1000000, 2500000, 4000000],
+      "confidence": 7,
+      "owns_masters": true,
+      "owns_publishing": true,
+      "label_situation": "Owns recent masters + label",
+      "key_assets": {
+        "masters": 2000000,
+        "label": 1000000
+      },
+      "notes": "High income but $600K pardon scam, legal fees, lifestyle spending drain wealth."
+    },
+    {
+      "name": "The Weeknd",
+      "entity_type": "singer",
+      "manual_net_worth": [150000000, 200000000, 250000000],
+      "confidence": 8,
+      "owns_masters": true,
+      "owns_publishing": true,
+      "label_situation": "Owns recent masters",
+      "key_assets": {
+        "masters": 80000000,
+        "publishing": 50000000,
+        "brand_deals": 30000000
+      },
+      "notes": "Owns recent masters. Music, Touring, Acting."
+    },
+    {
+      "name": "Ariana Grande",
+      "entity_type": "singer",
+      "manual_net_worth": [200000000, 250000000, 300000000],
+      "confidence": 8,
+      "owns_masters": false,
+      "owns_publishing": true,
+      "label_situation": "Major label deal",
+      "key_assets": {
+        "publishing": 100000000,
+        "rem_beauty": 80000000,
+        "real_estate": 50000000
+      },
+      "notes": "Major label deal. Music, Touring, Cosmetics."
+    },
+    {
+      "name": "Billie Eilish",
+      "entity_type": "singer",
+      "manual_net_worth": [70000000, 85000000, 100000000],
+      "confidence": 8,
+      "owns_masters": true,
+      "owns_publishing": true,
+      "label_situation": "Owns recent masters",
+      "key_assets": {
+        "masters": 40000000,
+        "publishing": 20000000,
+        "brand_deals": 15000000
+      },
+      "notes": "Owns recent masters. Music, Touring."
+    },
+    {
+      "name": "Olivia Rodrigo",
+      "entity_type": "singer",
+      "manual_net_worth": [25000000, 32500000, 40000000],
+      "confidence": 7,
+      "owns_masters": true,
+      "owns_publishing": true,
+      "label_situation": "Owns recent masters",
+      "key_assets": {
+        "masters": 20000000,
+        "publishing": 10000000
+      },
+      "notes": "Owns recent masters. Music, Touring."
+    },
+    {
+      "name": "Dua Lipa",
+      "entity_type": "singer",
+      "manual_net_worth": [80000000, 100000000, 120000000],
+      "confidence": 8,
+      "owns_masters": true,
+      "owns_publishing": true,
+      "label_situation": "Owns recent masters",
+      "key_assets": {
+        "masters": 40000000,
+        "publishing": 30000000,
+        "brand_deals": 20000000
+      },
+      "notes": "Owns recent masters. Music, Touring, Brand."
+    },
+    {
+      "name": "Doja Cat",
+      "entity_type": "singer",
+      "manual_net_worth": [30000000, 40000000, 50000000],
+      "confidence": 7,
+      "owns_masters": true,
+      "owns_publishing": true,
+      "label_situation": "Owns recent masters",
+      "key_assets": {
+        "masters": 20000000,
+        "publishing": 15000000,
+        "brand_deals": 10000000
+      },
+      "notes": "Owns recent masters. Music, Touring, Brand."
+    },
+    {
+      "name": "SZA",
+      "entity_type": "singer",
+      "manual_net_worth": [40000000, 55000000, 70000000],
+      "confidence": 8,
+      "owns_masters": false,
+      "owns_publishing": true,
+      "label_situation": "TDE/RCA deal, no old masters",
+      "key_assets": {
+        "publishing": 30000000,
+        "touring": 15000000,
+        "brand_deals": 5000000
+      },
+      "notes": "Corrected: massive streaming and touring, but no master ownership."
+    },
+    {
+      "name": "H.E.R.",
+      "entity_type": "singer",
+      "manual_net_worth": [15000000, 20000000, 25000000],
+      "confidence": 7,
+      "owns_masters": true,
+      "owns_publishing": true,
+      "label_situation": "Owns recent masters",
+      "key_assets": {
+        "masters": 10000000,
+        "publishing": 8000000
+      },
+      "notes": "Owns recent masters. Music, Touring, Brand."
+    },
+    {
+      "name": "Summer Walker",
+      "entity_type": "singer",
+      "manual_net_worth": [10000000, 15000000, 20000000],
+      "confidence": 7,
+      "owns_masters": true,
+      "owns_publishing": true,
+      "label_situation": "Owns recent masters",
+      "key_assets": {
+        "masters": 8000000,
+        "publishing": 5000000
+      },
+      "notes": "Owns recent masters. Music, Touring."
+    },
+    {
+      "name": "Brent Faiyaz",
+      "entity_type": "singer",
+      "manual_net_worth": [8000000, 11500000, 15000000],
+      "confidence": 7,
+      "owns_masters": true,
+      "owns_publishing": true,
+      "label_situation": "Owns masters + label",
+      "key_assets": {
+        "masters": 5000000,
+        "publishing": 3000000,
+        "label": 2000000
+      },
+      "notes": "Owns masters + label. Music, Touring, Label."
+    },
+    {
+      "name": "Frank Ocean",
+      "entity_type": "singer",
+      "manual_net_worth": [50000000, 65000000, 80000000],
+      "confidence": 8,
+      "owns_masters": true,
+      "owns_publishing": true,
+      "label_situation": "Owns masters",
+      "key_assets": {
+        "masters": 40000000,
+        "publishing": 20000000,
+        "brand_deals": 10000000
+      },
+      "notes": "Owns masters. Music, Fashion, Brand."
+    },
+    {
+      "name": "Bryson Tiller",
+      "entity_type": "singer",
+      "manual_net_worth": [10000000, 15000000, 20000000],
+      "confidence": 7,
+      "owns_masters": true,
+      "owns_publishing": true,
+      "label_situation": "Owns recent masters",
+      "key_assets": {
+        "masters": 8000000,
+        "publishing": 5000000
+      },
+      "notes": "Owns recent masters. Music, Touring."
+    },
+    {
+      "name": "Giveon",
+      "entity_type": "singer",
+      "manual_net_worth": [5000000, 7500000, 10000000],
+      "confidence": 6,
+      "owns_masters": false,
+      "owns_publishing": true,
+      "label_situation": "Major label deal",
+      "key_assets": {
+        "publishing": 5000000
+      },
+      "notes": "Major label deal. Music, Touring."
+    },
+    {
+      "name": "Lucky Daye",
+      "entity_type": "singer",
+      "manual_net_worth": [4000000, 6000000, 8000000],
+      "confidence": 7,
+      "owns_masters": true,
+      "owns_publishing": true,
+      "label_situation": "Owns recent masters",
+      "key_assets": {
+        "masters": 3000000,
+        "publishing": 2000000
+      },
+      "notes": "Owns recent masters. Music, Touring."
+    },
+    {
+      "name": "Snoh Aalegra",
+      "entity_type": "singer",
+      "manual_net_worth": [4000000, 6000000, 8000000],
+      "confidence": 7,
+      "owns_masters": true,
+      "owns_publishing": true,
+      "label_situation": "Owns recent masters",
+      "key_assets": {
+        "masters": 3000000,
+        "publishing": 2000000
+      },
+      "notes": "Owns recent masters. Music, Touring."
+    },
+    {
+      "name": "Mac Miller",
+      "entity_type": "rapper",
+      "manual_net_worth": [15000000, 22500000, 30000000],
+      "confidence": 7,
+      "owns_masters": true,
+      "owns_publishing": true,
+      "label_situation": "Estate owns masters (posthumous)",
+      "key_assets": {
+        "masters": 15000000,
+        "publishing": 10000000
+      },
+      "notes": "Estate owns masters (posthumous). Catalog revenue."
+    },
+    {
+      "name": "Pop Smoke",
+      "entity_type": "rapper",
+      "manual_net_worth": [10000000, 15000000, 20000000],
+      "confidence": 7,
+      "owns_masters": false,
+      "owns_publishing": true,
+      "label_situation": "Estate - major label deal",
+      "key_assets": {
+        "publishing": 10000000
+      },
+      "notes": "Estate - major label deal. Catalog revenue."
+    },
+    {
+      "name": "Juice WRLD",
+      "entity_type": "rapper",
+      "manual_net_worth": [30000000, 40000000, 50000000],
+      "confidence": 7,
+      "owns_masters": false,
+      "owns_publishing": true,
+      "label_situation": "Estate - major label deal",
+      "key_assets": {
+        "publishing": 25000000,
+        "catalog": 15000000
+      },
+      "notes": "Estate - major label deal. Catalog revenue."
+    },
+    {
+      "name": "XXXTentacion",
+      "entity_type": "rapper",
+      "manual_net_worth": [20000000, 27500000, 35000000],
+      "confidence": 7,
+      "owns_masters": true,
+      "owns_publishing": true,
+      "label_situation": "Estate owns recent masters",
+      "key_assets": {
+        "masters": 20000000,
+        "publishing": 10000000
+      },
+      "notes": "Estate owns recent masters. Catalog revenue."
+    },
+    {
+      "name": "Dr. Dre",
+      "entity_type": "producer",
+      "manual_net_worth": [800000000, 900000000, 1000000000],
+      "confidence": 9,
+      "owns_masters": true,
+      "owns_publishing": true,
+      "label_situation": "Aftermath (owns) + catalog",
+      "key_assets": {
+        "aftermath": 300000000,
+        "beats_by_dre": 400000000,
+        "catalog": 200000000,
+        "real_estate": 50000000
+      },
+      "notes": "Owns Aftermath + catalog. Beats by Dre, Aftermath."
+    },
+    {
+      "name": "Diddy",
+      "entity_type": "producer",
+      "manual_net_worth": [500000000, 600000000, 700000000],
+      "confidence": 8,
+      "owns_masters": true,
+      "owns_publishing": true,
+      "label_situation": "Bad Boy (owns) + brands",
+      "key_assets": {
+        "bad_boy": 200000000,
+        "ciroc": 200000000,
+        "real_estate": 100000000
+      },
+      "notes": "Owns Bad Boy + brands. Ciroc, Bad Boy, Real Estate."
+    },
+    {
+      "name": "Pharrell Williams",
+      "entity_type": "producer",
+      "manual_net_worth": [400000000, 450000000, 500000000],
+      "confidence": 9,
+      "owns_masters": true,
+      "owns_publishing": true,
+      "label_situation": "Owns Neptunes catalog",
+      "key_assets": {
+        "neptunes_catalog": 200000000,
+        "louis_vuitton": 100000000,
+        "real_estate": 50000000
+      },
+      "notes": "Owns Neptunes catalog. Louis Vuitton, Music, Real Estate."
+    },
+    {
+      "name": "Timbaland",
+      "entity_type": "producer",
+      "manual_net_worth": [150000000, 175000000, 200000000],
+      "confidence": 8,
+      "owns_masters": false,
+      "owns_publishing": true,
+      "label_situation": "Owns publishing. Catalog sale.",
+      "key_assets": {
+        "publishing": 150000000,
+        "investments": 25000000
+      },
+      "notes": "Owns publishing. Catalog Sale, Production."
+    },
+    {
+      "name": "Swizz Beatz",
+      "entity_type": "producer",
+      "manual_net_worth": [150000000, 175000000, 200000000],
+      "confidence": 8,
+      "owns_masters": false,
+      "owns_publishing": true,
+      "label_situation": "Owns publishing",
+      "key_assets": {
+        "publishing": 100000000,
+        "art_collection": 50000000,
+        "real_estate": 25000000
+      },
+      "notes": "Owns publishing. Catalog, Art, Real Estate."
+    },
+    {
+      "name": "No I.D.",
+      "entity_type": "producer",
+      "manual_net_worth": [60000000, 80000000, 100000000],
+      "confidence": 8,
+      "owns_masters": false,
+      "owns_publishing": true,
+      "label_situation": "Owns 100% publishing",
+      "key_assets": {
+        "publishing": 70000000,
+        "executive_roles": 10000000
+      },
+      "notes": "Owns 100% publishing. Publishing, Executive Roles."
+    },
+    {
+      "name": "Mike WiLL Made-It",
+      "entity_type": "producer",
+      "manual_net_worth": [80000000, 100000000, 120000000],
+      "confidence": 8,
+      "owns_masters": false,
+      "owns_publishing": true,
+      "label_situation": "Owns publishing + Ear Drummer label",
+      "key_assets": {
+        "publishing": 60000000,
+        "ear_drummer": 30000000
+      },
+      "notes": "Owns publishing + label. Production, Ear Drummer."
+    },
+    {
+      "name": "DJ Premier",
+      "entity_type": "producer",
+      "manual_net_worth": [15000000, 20000000, 25000000],
+      "confidence": 8,
+      "owns_masters": false,
+      "owns_publishing": true,
+      "label_situation": "Owns publishing",
+      "key_assets": {
+        "publishing": 15000000,
+        "dj_income": 5000000
+      },
+      "notes": "Owns publishing. Catalog Royalties, DJ Sets."
+    },
+    {
+      "name": "The Alchemist",
+      "entity_type": "producer",
+      "manual_net_worth": [12000000, 16000000, 20000000],
+      "confidence": 8,
+      "owns_masters": true,
+      "owns_publishing": true,
+      "label_situation": "ALC Records (owns). Owns masters + publishing.",
+      "key_assets": {
+        "publishing": 8000000,
+        "masters": 5000000,
+        "alc_records": 3000000
+      },
+      "notes": "Owns masters + publishing. Vinyl, Streaming, Production."
+    },
+    {
+      "name": "Hit-Boy",
+      "entity_type": "producer",
+      "manual_net_worth": [10000000, 14000000, 18000000],
+      "confidence": 8,
+      "owns_masters": false,
+      "owns_publishing": true,
+      "label_situation": "Owns publishing",
+      "key_assets": {
+        "publishing": 10000000,
+        "label": 4000000
+      },
+      "notes": "Owns publishing. Production, Label."
+    },
+    {
+      "name": "Madlib",
+      "entity_type": "producer",
+      "manual_net_worth": [7500000, 11000000, 14000000],
+      "confidence": 8,
+      "owns_masters": true,
+      "owns_publishing": true,
+      "label_situation": "Owns masters + publishing",
+      "key_assets": {
+        "masters": 5000000,
+        "publishing": 4000000,
+        "vinyl": 2000000
+      },
+      "notes": "Owns masters + publishing. Catalog, Vinyl, Licensing."
+    },
+    {
+      "name": "9th Wonder",
+      "entity_type": "producer",
+      "manual_net_worth": [2500000, 3750000, 5000000],
+      "confidence": 7,
+      "owns_masters": true,
+      "owns_publishing": true,
+      "label_situation": "Owns publishing + solo masters",
+      "key_assets": {
+        "publishing": 2000000,
+        "masters": 1000000
+      },
+      "notes": "Owns publishing + solo masters. Production, Academia."
+    },
+    {
+      "name": "Conductor Williams",
+      "entity_type": "producer",
+      "manual_net_worth": [1000000, 1750000, 2500000],
+      "confidence": 7,
+      "owns_masters": false,
+      "owns_publishing": true,
+      "label_situation": "Owns publishing",
+      "key_assets": {
+        "publishing": 1500000
+      },
+      "notes": "Owns publishing. Production, Vinyl."
+    },
+    {
+      "name": "Kenny Segal",
+      "entity_type": "producer",
+      "manual_net_worth": [600000, 1300000, 2000000],
+      "confidence": 7,
+      "owns_masters": true,
+      "owns_publishing": true,
+      "label_situation": "Owns masters + publishing",
+      "key_assets": {
+        "masters": 800000,
+        "publishing": 500000
+      },
+      "notes": "Owns masters + publishing. Independent Music, Vinyl."
+    },
+    {
+      "name": "N.O.R.E.",
+      "entity_type": "media_personality",
+      "manual_net_worth": [8000000, 11500000, 15000000],
+      "confidence": 8,
+      "owns_masters": false,
+      "owns_publishing": true,
+      "label_situation": "Drink Champs (co-owns part)",
+      "key_assets": {
+        "drink_champs": 8000000,
+        "publishing": 2000000
+      },
+      "notes": "Owns part of Drink Champs. Podcast, Brand Deals."
+    },
+    {
+      "name": "DJ Vlad",
+      "entity_type": "media_personality",
+      "manual_net_worth": [65000000, 82500000, 100000000],
+      "confidence": 9,
+      "owns_masters": true,
+      "owns_publishing": true,
+      "label_situation": "Owns 100% VladTV",
+      "key_assets": {
+        "vladtv": 40000000,
+        "real_estate": 10000000,
+        "stocks": 15000000,
+        "investments": 10000000
+      },
+      "notes": "Owns 100% VladTV. YouTube, Real Estate, Stocks."
+    },
+    {
+      "name": "Joe Budden",
+      "entity_type": "media_personality",
+      "manual_net_worth": [25000000, 30000000, 35000000],
+      "confidence": 8,
+      "owns_masters": false,
+      "owns_publishing": true,
+      "label_situation": "Owns podcast network",
+      "key_assets": {
+        "podcast_network": 20000000,
+        "publishing": 5000000,
+        "catalog": 5000000
+      },
+      "notes": "Owns podcast network. Podcast, YouTube, Catalog."
+    },
+    {
+      "name": "DJ Akademiks",
+      "entity_type": "media_personality",
+      "manual_net_worth": [15000000, 22500000, 30000000],
+      "confidence": 8,
+      "owns_masters": false,
+      "owns_publishing": false,
+      "label_situation": "Owns platform, label",
+      "key_assets": {
+        "platform": 10000000,
+        "akademy_records": 5000000,
+        "kick_deal": 3000000,
+        "stake_partnership": 2000000,
+        "investments": 3000000
+      },
+      "notes": "Added Kick deal, Stake partnership, pay-for-promotion revenue, Akademy Records."
+    },
+    {
+      "name": "Cam Capone News",
+      "entity_type": "media_personality",
+      "manual_net_worth": [1500000, 2750000, 4000000],
+      "confidence": 7,
+      "owns_masters": false,
+      "owns_publishing": false,
+      "label_situation": "Owns platform",
+      "key_assets": {
+        "platform": 2500000
+      },
+      "notes": "Owns platform. YouTube, Sponsorships."
+    },
+    {
+      "name": "Spiritual Tony",
+      "entity_type": "media_personality",
+      "manual_net_worth": [150000, 275000, 400000],
+      "confidence": 6,
+      "owns_masters": true,
+      "owns_publishing": true,
+      "label_situation": "Owns music + platform",
+      "key_assets": {
+        "music": 100000,
+        "platform": 100000
+      },
+      "notes": "Owns music + platform. YouTube, Music, Trucking."
+    },
+    {
+      "name": "Big Homie .cc",
+      "entity_type": "media_personality",
+      "manual_net_worth": [200000, 475000, 750000],
+      "confidence": 6,
+      "owns_masters": false,
+      "owns_publishing": false,
+      "label_situation": "Revenue share with Cam Capone",
+      "key_assets": {
+        "revenue_share": 400000
+      },
+      "notes": "Revenue share with Cam Capone. YouTube revenue share, Sponsorships."
+    },
+    {
+      "name": "Keith Lucks",
+      "entity_type": "media_personality",
+      "manual_net_worth": [1000000, 2000000, 4000000],
+      "confidence": 7,
+      "owns_masters": false,
+      "owns_publishing": false,
+      "label_situation": "Owns business + assets",
+      "key_assets": {
+        "business": 1500000,
+        "assets": 500000
+      },
+      "notes": "15+ years as bodyguard/fixer; high cash income; owns business/assets."
+    },
+    {
+      "name": "Floyd Mayweather",
+      "entity_type": "boxer",
+      "manual_net_worth": [200000000, 225000000, 250000000],
+      "confidence": 9,
+      "owns_masters": false,
+      "owns_publishing": false,
+      "label_situation": "Owns promotions + real estate",
+      "key_assets": {
+        "promotions": 100000000,
+        "real_estate": 100000000,
+        "investments": 25000000
+      },
+      "notes": "Owns promotions + real estate. Boxing, Exhibitions, Gambling."
+    },
+    {
+      "name": "Mike Tyson",
+      "entity_type": "boxer",
+      "manual_net_worth": [25000000, 30000000, 35000000],
+      "confidence": 8,
+      "owns_masters": false,
+      "owns_publishing": false,
+      "label_situation": "Owns cannabis brand + media",
+      "key_assets": {
+        "cannabis_brand": 15000000,
+        "media": 10000000,
+        "real_estate": 5000000
+      },
+      "notes": "Owns cannabis brand + media. Cannabis, Podcast, Sponsorships."
+    },
+    {
+      "name": "Terence Crawford",
+      "entity_type": "boxer",
+      "manual_net_worth": [40000000, 50000000, 60000000],
+      "confidence": 8,
+      "owns_masters": false,
+      "owns_publishing": false,
+      "label_situation": "Owns businesses, real estate",
+      "key_assets": {
+        "real_estate": 20000000,
+        "business_equity": 15000000,
+        "investments": 10000000
+      },
+      "notes": "$50M for Canelo fight. Real estate portfolio, endorsements, business equity; not a billionaire."
+    },
+    {
+      "name": "Claressa Shields",
+      "entity_type": "boxer",
+      "manual_net_worth": [800000, 1150000, 1500000],
+      "confidence": 7,
+      "owns_masters": false,
+      "owns_publishing": false,
+      "label_situation": "360 deal with Wynn Records",
+      "key_assets": {
+        "career_earnings": 1200000
+      },
+      "notes": "Raised for boxing/MMA income, but 360 deal and spending keep it low."
+    },
+    {
+      "name": "Alycia Baumgardner",
+      "entity_type": "boxer",
+      "manual_net_worth": [1500000, 2250000, 3000000],
+      "confidence": 7,
+      "owns_masters": true,
+      "owns_publishing": true,
+      "label_situation": "Owns master rights (music)",
+      "key_assets": {
+        "masters": 1000000,
+        "career_earnings": 1250000
+      },
+      "notes": "Owns master rights (music). Boxing, Endorsements."
+    },
+    {
+      "name": "Amanda Serrano",
+      "entity_type": "boxer",
+      "manual_net_worth": [5000000, 6000000, 7000000],
+      "confidence": 8,
+      "owns_masters": false,
+      "owns_publishing": false,
+      "label_situation": "Owns brand",
+      "key_assets": {
+        "brand": 4000000,
+        "career_earnings": 2000000
+      },
+      "notes": "Owns brand. Boxing, MMA, Endorsements."
+    },
+    {
+      "name": "Katie Taylor",
+      "entity_type": "boxer",
+      "manual_net_worth": [5000000, 6500000, 8000000],
+      "confidence": 8,
+      "owns_masters": false,
+      "owns_publishing": false,
+      "label_situation": "Owns brand",
+      "key_assets": {
+        "brand": 5000000,
+        "career_earnings": 1500000
+      },
+      "notes": "Owns brand. Boxing, Endorsements."
+    },
+    {
+      "name": "Laila Ali",
+      "entity_type": "boxer",
+      "manual_net_worth": [10000000, 12000000, 14000000],
+      "confidence": 8,
+      "owns_masters": false,
+      "owns_publishing": false,
+      "label_situation": "Owns brand + real estate",
+      "key_assets": {
+        "brand": 5000000,
+        "real_estate": 5000000,
+        "investments": 2000000
+      },
+            "notes": "Owns brand + real estate. Boxing, TV, Business."
+    },
+    {
+      "name": "Lil Durk",
+      "entity_type": "rapper",
+      "manual_net_worth": [20000000, 30000000, 40000000],
+      "confidence": 8,
+      "owns_masters": false,
+      "owns_publishing": false,
+      "label_situation": "Alamo/Sony owns masters. Owns OTF Entertainment (label).",
+      "key_assets": {
+        "otf_label": 12000000,
+        "real_estate": 5000000,
+        "investments": 3000000
+      },
+      "notes": "Does NOT own masters (Alamo/Sony). Owns OTF label. Booking price $200K/show. Acquitted Sept 2026, income resuming."
+    }
+  ]
+}

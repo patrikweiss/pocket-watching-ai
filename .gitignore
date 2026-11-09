@@ -1,0 +1,40 @@
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Secrets — NEVER commit these
+.env
+.env.local
+.streamlit/secrets.toml
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Data (keep only manual_knowledge.json)
+data/raw/
+data/user_facts.json
+data/api_cache.json
+
+# Backups
+backup/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# ML models
+data/models/
+*.pkl
+
+.cache
+merge_script.py

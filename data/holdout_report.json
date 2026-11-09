@@ -1,0 +1,186 @@
+{
+  "validation_size": 25,
+  "total_holdout": 25,
+  "median_relative_error_pct": 40.0,
+  "mean_relative_error_pct": 41.2,
+  "log_scale_mae": 0.228,
+  "avg_error_factor": 1.69,
+  "within_2x_pct": 92.0,
+  "per_person_results": [
+    {
+      "name": "Diddy",
+      "actual": 600000000,
+      "predicted": 207693285.50607303,
+      "rel_error": 0.653844524156545,
+      "log_error": 0.4607287938812714
+    },
+    {
+      "name": "Rick Ross",
+      "actual": 65000000,
+      "predicted": 46715727.249275826,
+      "rel_error": 0.281296503857295,
+      "log_error": 0.14345024250683736
+    },
+    {
+      "name": "J. Cole",
+      "actual": 485000000,
+      "predicted": 585603146.297871,
+      "rel_error": 0.20742916762447627,
+      "log_error": 0.08186166280895435
+    },
+    {
+      "name": "N.O.R.E.",
+      "actual": 11500000,
+      "predicted": 6773566.138375792,
+      "rel_error": 0.4109942488368877,
+      "log_error": 0.2298804646590611
+    },
+    {
+      "name": "Rapsody",
+      "actual": 3500000,
+      "predicted": 2146964.8392010606,
+      "rel_error": 0.38658147451398267,
+      "log_error": 0.2122431122875703
+    },
+    {
+      "name": "EST Gee",
+      "actual": 7500000,
+      "predicted": 4460161.803361945,
+      "rel_error": 0.4053117595517407,
+      "log_error": 0.22571064929107898
+    },
+    {
+      "name": "Jack Harlow",
+      "actual": 20000000,
+      "predicted": 11336545.973327365,
+      "rel_error": 0.4331727013336318,
+      "log_error": 0.24654924209663864
+    },
+    {
+      "name": "A$AP Rocky",
+      "actual": 30000000,
+      "predicted": 16698114.448035777,
+      "rel_error": 0.4433961850654741,
+      "log_error": 0.2544538213592604
+    },
+    {
+      "name": "Amanda Serrano",
+      "actual": 6000000,
+      "predicted": 9976179.500596778,
+      "rel_error": 0.6626965834327964,
+      "log_error": 0.22081300438288753
+    },
+    {
+      "name": "Wiz Khalifa",
+      "actual": 75000000,
+      "predicted": 44988187.91670168,
+      "rel_error": 0.4001574944439776,
+      "log_error": 0.2219627628606382
+    },
+    {
+      "name": "Mike WiLL Made-It",
+      "actual": 100000000,
+      "predicted": 88320808.85649458,
+      "rel_error": 0.11679191143505424,
+      "log_error": 0.05393696225636546
+    },
+    {
+      "name": "Floyd Mayweather",
+      "actual": 225000000,
+      "predicted": 26925792.036455594,
+      "rel_error": 0.8803298131713084,
+      "log_error": 0.9220140309508906
+    },
+    {
+      "name": "Summer Walker",
+      "actual": 15000000,
+      "predicted": 10706010.514348801,
+      "rel_error": 0.2862659657100799,
+      "log_error": 0.14646359348842708
+    },
+    {
+      "name": "Tyler, The Creator",
+      "actual": 100000000,
+      "predicted": 51561079.001415685,
+      "rel_error": 0.48438920998584317,
+      "log_error": 0.2876780028885024
+    },
+    {
+      "name": "Snoh Aalegra",
+      "actual": 6000000,
+      "predicted": 4404931.58911474,
+      "rel_error": 0.2658447351475434,
+      "log_error": 0.1342120824030415
+    },
+    {
+      "name": "NBA YoungBoy",
+      "actual": 115000000,
+      "predicted": 59376301.81606838,
+      "rel_error": 0.483684332034188,
+      "log_error": 0.2870846957781694
+    },
+    {
+      "name": "Kendrick Lamar",
+      "actual": 425000000,
+      "predicted": 505526104.6508235,
+      "rel_error": 0.18947318741370228,
+      "log_error": 0.07535465680664544
+    },
+    {
+      "name": "Katie Taylor",
+      "actual": 6500000,
+      "predicted": 10935694.073744627,
+      "rel_error": 0.6824144728837888,
+      "log_error": 0.22593299569023007
+    },
+    {
+      "name": "DJ Akademiks",
+      "actual": 22500000,
+      "predicted": 11501129.19128724,
+      "rel_error": 0.488838702609456,
+      "log_error": 0.29144203623859966
+    },
+    {
+      "name": "Chance the Rapper",
+      "actual": 32500000,
+      "predicted": 24679796.497356758,
+      "rel_error": 0.24062164623517668,
+      "log_error": 0.11954178667275084
+    },
+    {
+      "name": "Cordae",
+      "actual": 6500000,
+      "predicted": 4093009.4919075356,
+      "rel_error": 0.3703062320142253,
+      "log_error": 0.20087060484432762
+    },
+    {
+      "name": "Olivia Rodrigo",
+      "actual": 32500000,
+      "predicted": 32807649.937711205,
+      "rel_error": 0.00946615192957555,
+      "log_error": 0.004091761341414646
+    },
+    {
+      "name": "Pop Smoke",
+      "actual": 15000000,
+      "predicted": 9001157.859048877,
+      "rel_error": 0.3999228093967415,
+      "log_error": 0.22179288078832027
+    },
+    {
+      "name": "Kenny Segal",
+      "actual": 1300000,
+      "predicted": 2286300.9463057104,
+      "rel_error": 0.7586930356197772,
+      "log_error": 0.24519004379509912
+    },
+    {
+      "name": "Frank Ocean",
+      "actual": 65000000,
+      "predicted": 42360878.66524188,
+      "rel_error": 0.3482941743808941,
+      "log_error": 0.18594839681486075
+    }
+  ]
+}
