@@ -4,6 +4,10 @@ An AI-powered wealth estimation engine for rappers, producers, media personaliti
 
 Built for content creators who need credible, sourced estimates instead of guesswork.
 
+## Live Demo
+
+**Try it now:** [https://pocket-watching-ai-ezgxydim4rrow3ynl6ie9u.streamlit.app](https://pocket-watching-ai-ezgxydim4rrow3ynl6ie9u.streamlit.app)
+
 ---
 
 ## What It Does
