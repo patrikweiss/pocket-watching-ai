@@ -8,6 +8,17 @@ Built for content creators who need credible, sourced estimates instead of guess
 
 **Try it now:** [https://pocket-watching-ai-ezgxydim4rrow3ynl6ie9u.streamlit.app](https://pocket-watching-ai-ezgxydim4rrow3ynl6ie9u.streamlit.app)
 
+## Screenshots
+
+![Dashboard](screenshots/dashboard.png)
+*Base estimate with full income, assets, and ownership breakdown.*
+
+![AI Explanation](screenshots/ai-explanation.png)
+*AI-generated reasoning via DeepSeek.*
+
+![Refinement](screenshots/refinement.png)
+*Interactive refinement — user adds facts, estimate adjusts live.*
+
 ---
 
 ## What It Does
